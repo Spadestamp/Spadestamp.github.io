@@ -5,7 +5,7 @@ head {
 }
 body {
 	background-color: #0c2c56;
-	background-image: url(images/baseball-bat.png);
+	background: url(images/baseball-bat.png);
 	text-align: center;
 }
 
