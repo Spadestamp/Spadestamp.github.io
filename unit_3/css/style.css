@@ -4,7 +4,7 @@ head {
 
 }
 body {
-	background: url(images/baseball-bat.png)
+	background: url(..images/baseball-bat.png)
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
