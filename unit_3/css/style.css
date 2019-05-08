@@ -37,9 +37,13 @@ nav a {
   border-color: #ffffff;
   border-width: thin;
   float: left;
-  justify-content: center;
 }
 
 .hero {
   width: 100%;
+}
+
+#id {
+	width: 33%;
+	float: left;
 }
