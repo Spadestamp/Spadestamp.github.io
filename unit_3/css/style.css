@@ -7,20 +7,14 @@ h1 {
 	text-align: left;
 	color: #fff;
 	font-size: 30;
-	font-family: arial black;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
-h3 {
-	text-align: center;
+p {
+  text-align: left;
 	color: #fff;
-	font-size: 20;
-	font-family: arial;
-}
-
-p {text-align: left;
-	color: #fff;
-	font-family: arial;
-	font-size: 14;
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 14;
 }
 
 nav a {
@@ -29,5 +23,16 @@ nav a {
 	color: #ffffff;
 	font-weight: 600;
 	margin-left: 10px;
-	margin-top: 80px;
+	margin-top: 70px;
+}
+
+.column {
+  color: #ffffff;
+  font-size: 25px;
+  float: left;
+  width: 33.33%;
+}
+
+.hero {
+  width: 100%;
 }
