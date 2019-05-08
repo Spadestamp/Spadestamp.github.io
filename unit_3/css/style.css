@@ -1,29 +1,33 @@
-
-head {
-	text-align: center;
-
-}
 body {
+
 	background-color: #0c2c56;
 	text-align: center;
 
 }
 h1 {
+	text-align: left;
 	color: #fff;
 	font-size: 30;
 	font-family: arial black;
 }
 
-p {
+p { text-align: left;
 	color: #fff;
 	font-family: arial;
 	font-size: 14;
 }
 
 nav a {
+	float: right;
 	text-align: right
-	color: #fff;
+	color: #ffffff;
 	text-decoration: underline;
 	font-weight: 600;
 	margin-left: 10px;
+	margin-top: 50px;
 
+img{
+	width: auto;
+	max-width: 900px; 
+	height: auto;
+}
