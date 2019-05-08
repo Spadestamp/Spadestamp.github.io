@@ -9,7 +9,10 @@ h1 {
 	font-size: 30;
 	font-family: Arial, Helvetica, sans-serif;
 }
-
+h6 {
+	font: 8px;
+ 	text-align: center;
+}
 p {
   text-align: left;
 	color: #fff;
@@ -34,7 +37,6 @@ nav a {
   border-style: solid;
   border-color: #ffffff;
   border-width: thin;
-  text-align: center;
 }
 
 .hero {
