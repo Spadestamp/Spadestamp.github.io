@@ -2,6 +2,9 @@ body {
 	background-color: #0c2c56;
 	text-align: center;
 	margin: 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
 }
 
 h1 {
@@ -62,7 +65,8 @@ nav a {
 }
 
 .hero {
-  width: 100%;
+ 	width: 100%;
+	flex: 1 0;
 }
 
 .footer {
