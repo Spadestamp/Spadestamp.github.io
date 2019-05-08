@@ -14,13 +14,19 @@ h6 {
 	font: 8px;
  	text-align: center;
 }
-p {
+#name #slogan {
   	text-align: left;
 	color: #fff;
 	font-family: Arial, Helvetica, sans-serif;
  	 font-size: 14;
 }
 
+p {
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 14;
+}
+	
 nav a {
 	float: right;
 	text-align: right;
@@ -48,4 +54,13 @@ nav a {
 
 .hero {
   width: 100%;
+}
+
+.footer {
+	backround: #c4ced4
+}
+
+p {
+	text-align: right;
+	color; #ffffff;
 }
