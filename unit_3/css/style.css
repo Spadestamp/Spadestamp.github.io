@@ -57,7 +57,11 @@ nav a {
 }
 
 .footer {
-	backround: #c4ced4
+	position: fixed;
+	backround: #c4ced4;
+   	left: 0;
+  	bottom: 0;
+  	width: 100%;
 }
 
 p {
