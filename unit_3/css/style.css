@@ -2,9 +2,8 @@ body {
 	background-color: #0c2c56;
 	text-align: center;
 	margin: 0;
-	height: 100%;
-	display: flex;
-	flex-direction: column;
+	padding-bottom: 20px;
+
 }
 
 h1 {
@@ -55,21 +54,20 @@ nav a {
 }
 
 .column {
-  color: #ffffff;
-  font-size: 25px;
-  border-style: solid;
-  border-color: #ffffff;
-  border-width: thin;
-  display: table-cell;
-  width: 33%;
+ 	color: #ffffff;
+ 	font-size: 25px;
+	border-style: solid;
+ 	border-color: #ffffff;
+ 	border-width: thin;
+ 	display: table-cell;
+ 	width: 33%;
 }
 
 .hero {
- 	width: 100%;
-	flex: 1 0;
+  width: 100%;
 }
 
-.footer {
+#footer {
 	position: fixed;
 	backround: #c4ced4;
    	left: 0;
@@ -82,3 +80,4 @@ p {
 	text-align: center;
 	color; #ffffff;
 }
+
