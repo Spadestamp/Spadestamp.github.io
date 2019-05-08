@@ -11,11 +11,13 @@ body {
 }
 
 h1 {
+	color: #fff;
 	font-size: 30;
 	font-family: Arial Black;
 }
 
 p {
+	color: #fff;
 	font-family: Arial;
 	font-size: 14;
 }
