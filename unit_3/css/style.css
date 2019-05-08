@@ -36,6 +36,8 @@ nav a {
   border-style: solid;
   border-color: #ffffff;
   border-width: thin;
+  float: left;
+  justify-content: center;
 }
 
 .hero {
