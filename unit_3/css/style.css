@@ -1,5 +1,6 @@
 body {
 	background-color: #0c2c56;
+	text-align: center;
 }
 h1 {
 	text-align: left;
@@ -8,8 +9,7 @@ h1 {
 	font-family: arial black;
 }
 
-p { float: left;
-	text-align: left;
+p {text-align: left;
 	color: #fff;
 	font-family: arial;
 	font-size: 14;
@@ -23,7 +23,4 @@ nav a {
 	margin-left: 10px;
 	margin-top: 50px;
 
-img {
-  width: 100%;
-  height: auto;
-}
+
