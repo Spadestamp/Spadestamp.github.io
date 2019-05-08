@@ -32,7 +32,6 @@ nav a {
 .column {
   color: #ffffff;
   font-size: 25px;
-  float: center;
   width: 30%;
   border-style: solid;
   border-color: #ffffff;
@@ -41,8 +40,4 @@ nav a {
 
 .hero {
   width: 100%;
-}
-
-.row {
-	float: center;
 }
