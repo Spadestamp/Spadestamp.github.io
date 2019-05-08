@@ -4,18 +4,17 @@ head {
 
 }
 body {
-	background-color: #0C2C56;
+	background-color: #0c2c56;
 	text-align: center;
 }
 
 h1 {
 	color: #fff;
 	font-size: 30;
-	font-family: Arial Black;
 }
 
 p {
 	color: #fff;
-	font-family: Arial;
+	font-family: arial;
 	font-size: 14;
 }
