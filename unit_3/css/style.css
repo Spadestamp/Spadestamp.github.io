@@ -33,7 +33,7 @@ nav a {
 .row {
 	display: table;
 	width: 100%;
-	overflow-x: scroll; }
+	background: #005c5c;
 }
 
 .column {
