@@ -33,7 +33,6 @@ nav a {
 .row {
 	display: table;
 	width: 100%;
-	background: #005c5c;
 }
 
 .column {
@@ -43,7 +42,7 @@ nav a {
   border-color: #ffffff;
   border-width: thin;
   display: table-cell;
-  width: 300px;
+  width: 33%;
 }
 
 .hero {
