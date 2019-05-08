@@ -1,11 +1,21 @@
-h1 {
-	font-size: 30;
-	font-family: 
-}
 
+head {
+	text-align: center;
+
+}
 body {
 	background-color: #0C2C56;
-	background: url(images/baseball bat.png);
+	background: url("images/baseball bat.png");
 	background-size: cover;
+	text-align: center;
 }
 
+h1 {
+	font-size: 30;
+	font-family: Arial Black;
+}
+
+p {
+	font-family: Arial;
+	font-size: 14;
+}
