@@ -4,11 +4,7 @@ head {
 
 }
 body {
-	background: url(/images/baseball-bat.png)
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
- 	background-position: top; 
+	background-color: #0c2c56
 	text-align: center;
 
 }
