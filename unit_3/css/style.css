@@ -29,11 +29,12 @@ nav a {
 .column {
   color: #ffffff;
   font-size: 25px;
-  float: left;
+  float: center;
   width: 30%;
   border-style: solid;
   border-color: #ffffff;
   border-width: thin;
+  text-align: center;
 }
 
 .hero {
