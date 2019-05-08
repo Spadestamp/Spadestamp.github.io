@@ -45,7 +45,8 @@ nav a {
   width: 100%;
 }
 
-#id {
+.row {  
 	width: 33%;
 	float: left;
+	margin: auto;
 }
