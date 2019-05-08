@@ -4,11 +4,14 @@ head {
 
 }
 body {
-	background-color: #0c2c56;
-	background: url(images/baseball-bat.png);
+	background: url(images/baseball-bat.png)
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	background-position: top; 
 	text-align: center;
-}
 
+}
 h1 {
 	color: #fff;
 	font-size: 30;
