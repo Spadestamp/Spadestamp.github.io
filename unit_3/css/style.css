@@ -40,3 +40,7 @@ nav a {
 .hero {
   width: 100%;
 }
+
+.row {
+	float: center;
+}
