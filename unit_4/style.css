@@ -1,0 +1,50 @@
+body {
+	background-color: #0c2c56;
+	text-align: center;
+	margin: 0;
+}
+
+h1 {
+	text-align: left;
+	color: #fff;
+	font-size: 30;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h6 {
+	font: 8px;
+ 	text-align: center;
+}
+p {
+  	text-align: left;
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+ 	 font-size: 14;
+}
+
+nav a {
+	float: right;
+	text-align: right;
+	color: #ffffff;
+	font-weight: 600;
+	margin-right: 10px;
+	margin-top: 70px;
+}
+
+.row {
+	display: table;
+	width: 100%;
+}
+
+.column {
+  color: #ffffff;
+  font-size: 25px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: thin;
+  display: table-cell;
+  width: 33%;
+}
+
+.hero {
+  width: 100%;
+}
