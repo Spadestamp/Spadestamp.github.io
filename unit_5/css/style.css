@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #ffffff;
+}
+
+#heroTitle {
+	font-family: "Open Sans", sans-serif;
+	font-size: 4em;
+	color: #ffffff;
+	padding: 0 25px;
+}
+
+#heroContent {
+	color: #ffffff;
+	padding: 0 25px;
+	font-size: 1.2em;
+	white-space: nowrap;
+}
+
+p {
+	font-family: "Roboto display", sans-serif;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+body {
+	background-color: #0c2c56;
+	font-family: "Open Sans", sans-serif;
+}
+#PastResults {
+	text-align: center;
+	padding: 25px 25px;
+}
+#reason {
+	padding: 25px;
+
+}
+
+#PastResults a{
+	text-align: center;
+	color: #ffffff;
+	font-weight: 600;
+	padding: 10px;
+	font-size: 2em;
+}
+
+nav a {
+	float: right;
+	text-align: right;
+	font-size: 2em;
+	color: #ffffff;
+	font-weight: 600;
+	margin-right: 10px;
+	margin-top: 35px;
+	padding: 10px;
+}
+
+
+h3 {
+	padding-top: 35px;
+	font-size: 4em;
+	text-align: center;
+	margin: auto;
+}
+
+.row {
+	padding: 35px 50px;
+	display: table;
+}
+
+.column1 {
+	background: #005c5c;
+ 	color: #ffffff;
+ 	font-size: 25px;
+	border-style: solid;
+ 	border-color: #ffffff;
+ 	border-width: thin;
+ 	display: table-cell;
+ 	width: 25%;
+ 	vertical-align: middle;
+ 	text-align: center;
+
+}
+
+.column2 {
+	background: #005c5c;
+ 	color: #ffffff;
+ 	font-size: 25px;
+	border-style: solid;
+ 	border-color: #ffffff;
+ 	border-width: thin;
+ 	display: table-cell;
+ 	width: 75%;
+ 	vertical-align: middle;
+}
+
+.p.reason {
+	padding: 10px;
+}
+
+.hero {
+  background: url(../images/king-felix.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  max-width: 100%;
+  height: 600px;
+}
+
+table {
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	font-size: 2em;
+	border: solid white thin;
+}
+
+footer { 
+	padding: 25px;
+	text-align: center;
+}
