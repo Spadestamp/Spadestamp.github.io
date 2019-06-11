@@ -23,19 +23,7 @@
 }
 
 p {
-	font-family: "Roboto display", sans-serif;
-}
-
-h3 {
-	text-decoration: underline;
-}
-
-h4 {
-	font-size: 4em;
-	margin: auto;
-	display: inline-block;
-	width: 100%;
-	text-align: center;
+	font-size: 1em;
 }
 
 body {
@@ -43,15 +31,43 @@ body {
 	font-family: "Open Sans", sans-serif;
 }
 
-#PastResults {
-	padding: 25px 25px;
+h2 {
+	font-size: 3;
+}
+
+h4 {
+	text-decoration: underline;
+}
+
+h5 {
+	font-size: 4em;
+	margin: auto;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+aside {
 	width: 15%;
 	float: left;
 }
 
-#reason {
-	padding: 25px;
+article {
+    float: left;
+    margin: 20px 20px;
+    padding: 2%;
+    width: 30%;
+    height: 150px;
+    background-color: #005c5c;
+    color: #000000;
+    border-style: solid;
+ 	border-color: #ffffff;
+ 	border-width: thin;
+}
 
+#reason {
+
+	padding: 25px;
 }
 
 .clearfix:after {
@@ -62,7 +78,6 @@ body {
     clear: both;
     height: 0;
 }
-
 
 #PastResults a{
 	color: #ffffff;
@@ -78,7 +93,7 @@ ul {
 	padding: 0;
 }
 
-nav a {
+nav#TopNav a {
 	float: right;
 	text-align: right;
 	font-size: 2em;
@@ -88,7 +103,6 @@ nav a {
 	margin-top: 35px;
 	padding: 10px;
 }
-
 
 .row {
 	padding: 25px 50px;
@@ -140,7 +154,7 @@ table {
 	width: 80%;
 	text-align: center;
 	margin: auto;
-	font-size: 2em;
+	font-size: 1em;
 	border: solid white thin;
 }
 
