@@ -112,7 +112,6 @@ nav#TopNav a {
  	width: 25%;
  	vertical-align: middle;
  	text-align: center;
-
 }
 
 .column2 {
@@ -125,6 +124,11 @@ nav#TopNav a {
  	display: table-cell;
  	width: 75%;
  	vertical-align: middle;
+}
+
+div#logo {
+	display: block;
+	width: 50%;
 }
 
 .hero {
@@ -197,14 +201,13 @@ img {
  	font-size: 1em;
  	display: table-cell;
  	width: 100%;
- 	max-height: 5em;
- 	overflow: scroll;
-
+ 	height: 5em;
 	 }
+
  .column1 {
  	font-size: 1em;
-
 	}
+
 }
 
 
